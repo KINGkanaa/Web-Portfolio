@@ -1,0 +1,40 @@
+body{
+        background-image: url(Sunset.jpeg);
+        background-repeat: no repeat;
+        background-size: fill;
+}
+
+#Logo2008{
+width: 240px;
+height: 200px; 
+border-radius: 50%;
+nav-up: 1000000000px;
+}
+.video{
+        width: 240px;
+        height: 260px; 
+        border-radius: 60px;
+        border: 5px solid rgb(111, 11, 169);
+        float: left;
+}
+
+#lucki{
+        margin-left: 500px;
+        float: left ;
+        
+}
+p{
+color: rgb(243, 244, 217);
+}
+h1,h2,h3{
+color: rgb(216, 196, 18);
+}
+#gallery-desc{
+      float: left;
+      width: 200px;
+      height: 260px; 
+      border-radius: 15px;
+      border: 5px solid rgb(111, 11, 169);
+      background-color: rgb(254, 239, 197);
+      text-align: center;      
+}
